@@ -1,7 +1,7 @@
 #Text based calculator in python
 
 no_a = int(input("enter first number:"))
-no_b = int(input("enter second number:")
+no_b = int(input("enter second number:"))
 user_input = input("Enter operation( add / sub / multiply / divide)")
 operation =  user_input.lower()
 
